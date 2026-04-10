@@ -1,0 +1,268 @@
+{
+  "generated_on": "2026-04-10",
+  "workspace": "D:\\code\\agent_data",
+  "persistent_user_constraints": {
+    "path": "D:\\code\\agent_data\\agent_knowledge\\persistent_user_constraints.md",
+    "apply_by_default_for": [
+      "简历问答",
+      "模拟面试题生成",
+      "模拟面试参考回答",
+      "项目复盘",
+      "STAR版本整理",
+      "JD定制问答"
+    ],
+    "current_constraints": [
+      "目标岗位为Agent应用开发工程师",
+      "回答必须贴合简历和已学习知识",
+      "回答语气必须像真实面试现场，可直接读给面试官听",
+      "生成内容默认写入 output 目录",
+      "不要编造未确认指标和生产细节"
+    ]
+  },
+  "prepared_kb": {
+    "path": "D:\\code\\agent_data\\ready",
+    "index_file": "D:\\code\\agent_data\\ready\\INDEX.md",
+    "manifest_file": "D:\\code\\agent_data\\ready\\manifest.json",
+    "merged_kb_file": "D:\\code\\agent_data\\ready\\interview_qa_kb.md",
+    "topics_dir": "D:\\code\\agent_data\\ready\\topics",
+    "total_ready_topics": 107,
+    "curated_document_topics": 71,
+    "ocr_grouped_topics": 36,
+    "recommended_usage": [
+      "原理题",
+      "八股题",
+      "课程知识梳理",
+      "模拟面试题生成"
+    ],
+    "notes": [
+      "ready 是预处理后的主题知识层",
+      "涉及精确实现细节时应回到原始项目目录核对",
+      "涉及你真实做过什么时应优先参考 resume_summary 和 resume_material_mapping"
+    ]
+  },
+  "resume": {
+    "name": "张山泉",
+    "target_role": "Agent应用开发工程师",
+    "education": [
+      {
+        "school": "福建理工大学",
+        "major": "软件工程",
+        "degree": "本科",
+        "start": "2021-09",
+        "end": "2025-07"
+      }
+    ],
+    "experience": [
+      {
+        "company": "网易",
+        "role": "测试开发实习生",
+        "start": "2024-04",
+        "end": "2024-07"
+      },
+      {
+        "company": "搜狐畅游",
+        "role": "测试开发工程师",
+        "start": "2024-10",
+        "end": "至今"
+      }
+    ],
+    "main_project": {
+      "name": "基于 RAG + Function Calling 的游戏智能测试 Agent 平台",
+      "company": "搜狐畅游",
+      "start": "2025-06",
+      "end": "至今",
+      "keywords": [
+        "RAG",
+        "Tool Schema",
+        "ReAct",
+        "Function Calling",
+        "SFT",
+        "LoRA",
+        "GRPO"
+      ]
+    }
+  },
+  "projects": [
+    {
+      "id": "rag_milvus",
+      "title": "Milvus RAG Service",
+      "confidence": "high",
+      "paths": [
+        "D:\\code\\agent_data\\agent资料\\S4-agent开发\\第一周-RAG&向量数据库\\RAG",
+        "D:\\code\\agent_data\\agent资料\\S2-系统训练营\\5-RAG原理与核心组件"
+      ],
+      "topics": [
+        "RAG",
+        "Milvus",
+        "FastAPI",
+        "query expansion",
+        "multi-turn chat"
+      ],
+      "supports_resume": [
+        "RAG知识层",
+        "检索链路",
+        "查询改写"
+      ]
+    },
+    {
+      "id": "deep_research",
+      "title": "Deep Research Agent",
+      "confidence": "high",
+      "paths": [
+        "D:\\code\\agent_data\\agent资料\\S4-agent开发\\第二周：deep_research\\deep_research"
+      ],
+      "topics": [
+        "orchestrator-worker",
+        "OODA",
+        "quality control",
+        "task decomposition"
+      ],
+      "supports_resume": [
+        "多步任务拆解",
+        "反思纠错"
+      ]
+    },
+    {
+      "id": "langgraph_finance_agent",
+      "title": "LangGraph Finance Agent",
+      "confidence": "high",
+      "paths": [
+        "D:\\code\\agent_data\\agent资料\\S4-agent开发\\Agent第三周\\Agent3"
+      ],
+      "topics": [
+        "LangGraph",
+        "tool routing",
+        "Text2SQL",
+        "code interpreter",
+        "RAG"
+      ],
+      "supports_resume": [
+        "Tool Schema",
+        "多工具编排",
+        "LangGraph"
+      ]
+    },
+    {
+      "id": "memory_multi_agent",
+      "title": "Memory Multi-Agent System",
+      "confidence": "high",
+      "paths": [
+        "D:\\code\\agent_data\\agent资料\\S4-agent开发\\Agent第四周-记忆\\week4_project"
+      ],
+      "topics": [
+        "memory pipeline",
+        "Redis",
+        "Milvus",
+        "user profile",
+        "dreaming"
+      ],
+      "supports_resume": [
+        "长期记忆",
+        "用户画像",
+        "多智能体协作"
+      ]
+    },
+    {
+      "id": "tool_call_training",
+      "title": "Tool Calling LoRA Training",
+      "confidence": "high",
+      "paths": [
+        "D:\\code\\agent_data\\agent资料\\S4-agent开发\\第五周：train_project\\train_project"
+      ],
+      "topics": [
+        "trajectory data",
+        "Function Calling SFT",
+        "LoRA",
+        "offline evaluation"
+      ],
+      "supports_resume": [
+        "Function Calling SFT",
+        "LoRA",
+        "工具调用评测"
+      ]
+    },
+    {
+      "id": "mcp_examples",
+      "title": "MCP Examples",
+      "confidence": "medium",
+      "paths": [
+        "D:\\code\\agent_data\\agent资料\\S2-系统训练营\\7-agent智能体\\mcp-stage3\\mcp-stage3\\mcp-stage3\\mcp-stage3",
+        "D:\\code\\agent_data\\agent资料\\S2-系统训练营\\7-agent智能体\\media-mcp\\media-mcp\\Redbook-Search-Comment-MCP2.0"
+      ],
+      "topics": [
+        "MCP",
+        "tool discovery",
+        "client-server protocol"
+      ],
+      "supports_resume": [
+        "MCP"
+      ]
+    }
+  ],
+  "answering_rules": {
+    "strong_words": [
+      "做过",
+      "负责",
+      "落地过"
+    ],
+    "medium_words": [
+      "实践过",
+      "搭过Demo",
+      "系统实现过"
+    ],
+    "weak_words": [
+      "了解",
+      "学习过"
+    ],
+    "never_do": [
+      "把课程Demo指标说成工作项目线上指标",
+      "把课程场景直接说成公司真实业务场景",
+      "编造模型版本、QPS、样本规模"
+    ]
+  },
+  "interview_assets": {
+    "path": "D:\\code\\agent_data\\agent_knowledge\\interview_assets",
+    "recommended_usage": [
+      "基于简历生成拟真模拟面试题",
+      "生成贴近已学习知识的参考回答",
+      "控制追问节奏、表述强度和知识边界"
+    ],
+    "files": [
+      {
+        "name": "resume_concept_bridge.md",
+        "role": "把简历条目映射到 ready 主题和项目卡片"
+      },
+      {
+        "name": "question_bank.md",
+        "role": "主问题池，适合批量生成面试题"
+      },
+      {
+        "name": "followup_trees.md",
+        "role": "把主问题扩展成 3 到 5 轮真实追问链"
+      },
+      {
+        "name": "answer_generation_rules.md",
+        "role": "约束回答风格，优先使用熟悉知识点"
+      },
+      {
+        "name": "sample_answers.md",
+        "role": "提供口径校准样例"
+      },
+      {
+        "name": "knowledge_gaps.md",
+        "role": "限制越界回答"
+      }
+    ],
+    "question_generation_rules": {
+      "resume_bound_ratio": "70%",
+      "adjacent_project_ratio": "20%",
+      "pressure_question_ratio": "10%",
+      "default_followup_pattern": [
+        "主问题",
+        "实现追问",
+        "trade-off或失败模式追问",
+        "评估或边界追问"
+      ]
+    }
+  }
+}

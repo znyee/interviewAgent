@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Keep agent资料 as an indexed archive only.
+# The GitHub repo tracks the summary docs, not the raw course/project materials.
+/agent资料/**
+!/agent资料/README.md
+!/agent资料/LARGE_FILE_INDEX.md
+!/agent资料/large_files_manifest.json
+
+# Personal/local artifacts
+/简历-agent应用开发工程师.pdf

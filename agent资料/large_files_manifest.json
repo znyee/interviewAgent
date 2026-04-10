@@ -1,0 +1,547 @@
+﻿{
+    "generated_at":  "2026-04-10T19:54:13+08:00",
+    "repo_root":  "D:\\code\\agent_data",
+    "target_dir":  "agent资料",
+    "threshold_mb":  20,
+    "total_files":  61,
+    "total_size_gb":  17.223,
+    "category_summary":  [
+                             {
+                                 "category":  "dataset",
+                                 "count":  8,
+                                 "size_gb":  0.365,
+                                 "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                             },
+                             {
+                                 "category":  "media",
+                                 "count":  2,
+                                 "size_gb":  1.459,
+                                 "description":  "Recorded course or demo media. Keep filename and summary only."
+                             },
+                             {
+                                 "category":  "model-weight",
+                                 "count":  25,
+                                 "size_gb":  14.181,
+                                 "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                             },
+                             {
+                                 "category":  "notebook-export",
+                                 "count":  5,
+                                 "size_gb":  0.18,
+                                 "description":  "Heavy notebook export. Keep title and topic summary, split content later if needed."
+                             },
+                             {
+                                 "category":  "runtime-cache",
+                                 "count":  21,
+                                 "size_gb":  1.038,
+                                 "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                             }
+                         ],
+    "module_summary":  [
+                           {
+                               "module":  "S2-系统训练营",
+                               "count":  49,
+                               "size_gb":  15.013
+                           },
+                           {
+                               "module":  "S3-急救营",
+                               "count":  7,
+                               "size_gb":  2.002
+                           },
+                           {
+                               "module":  "S4-agent开发",
+                               "count":  5,
+                               "size_gb":  0.208
+                           }
+                       ],
+    "files":  [
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/DPO实战/DPO/src/phi-2/model-00001-of-00002.safetensors",
+                      "size_mb":  4764.2,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/DPO实战/DPO/model-DPO/model.safetensors",
+                      "size_mb":  1884.6,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S3-急救营/Agent+SFT_SHENWEI/Agent+SFT/qwen3-0_6b/model.safetensors",
+                      "size_mb":  1433.7,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S3-急救营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/9-微调实战/unslothDeepSeek-R1-Distill-Llama-8B/DeepSeek-R1-Distill-Llama-8B/model-00004-of-00004.safetensors",
+                      "size_mb":  1114,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/PPO实战/PPO/qwen_ppo_sentiment_final/model.safetensors",
+                      "size_mb":  942.3,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/DPO实战/DPO/src/Qwen2.5-0.5B-Instruct/model.safetensors",
+                      "size_mb":  942.3,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/PPO实战/PPO/Qwen2.5-0.5B-Instruct/model.safetensors",
+                      "size_mb":  942.3,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/wsl启动rag项目/wsl环境启动rag项目.mp4",
+                      "size_mb":  766,
+                      "extension":  ".mp4",
+                      "category":  "media",
+                      "module":  "S2-系统训练营",
+                      "description":  "Recorded course or demo media. Keep filename and summary only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/1-大模型基础速通/pytorch \u0026 深度学习/pytorch \u0026 深度学习/神经网络 \u0026 pytorch光速入门.mp4",
+                      "size_mb":  728.5,
+                      "extension":  ".mp4",
+                      "category":  "media",
+                      "module":  "S2-系统训练营",
+                      "description":  "Recorded course or demo media. Keep filename and summary only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/DPO实战/DPO/src/phi-2/model-00002-of-00002.safetensors",
+                      "size_mb":  537.7,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/PPO实战/PPO/distilbert/onnx/model.onnx",
+                      "size_mb":  255.5,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/PPO实战/PPO/distilbert/tf_model.h5",
+                      "size_mb":  255.5,
+                      "extension":  ".h5",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/PPO实战/PPO/distilbert/pytorch_model.bin",
+                      "size_mb":  255.4,
+                      "extension":  ".bin",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S3-急救营/Agent+SFT_SHENWEI/Agent+SFT/qwen3-0_6b_lora_v1_last_assistant/checkpoint-229/optimizer.pt",
+                      "size_mb":  154.3,
+                      "extension":  ".pt",
+                      "category":  "model-weight",
+                      "module":  "S3-急救营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S3-急救营/Agent+SFT_SHENWEI/Agent+SFT/qwen3-0_6b_lora_v2_last_assistant/checkpoint-276/optimizer.pt",
+                      "size_mb":  154.3,
+                      "extension":  ".pt",
+                      "category":  "model-weight",
+                      "module":  "S3-急救营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/nltk_data/corpora/framenet_v17.zip",
+                      "size_mb":  94.6,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/nltk_data/corpora/framenet_v17.zip",
+                      "size_mb":  94.6,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/nltk_data/corpora/lin_thesaurus.zip",
+                      "size_mb":  85,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/nltk_data/corpora/lin_thesaurus.zip",
+                      "size_mb":  85,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S3-急救营/Agent+SFT_SHENWEI/Agent+SFT/qwen3-0_6b_lora_v2_last_assistant/checkpoint-276/adapter_model.safetensors",
+                      "size_mb":  77,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S3-急救营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S3-急救营/Agent+SFT_SHENWEI/Agent+SFT/qwen3-0_6b_lora_v1_last_assistant/checkpoint-229/adapter_model.safetensors",
+                      "size_mb":  77,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S3-急救营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S3-急救营/Agent+SFT_SHENWEI/Agent+SFT/qwen3-0_6b_lora_v2_last_assistant/adapter_model.safetensors",
+                      "size_mb":  77,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S3-急救营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S3-急救营/Agent+SFT_SHENWEI/Agent+SFT/qwen3-0_6b_lora_v1_last_assistant/adapter_model.safetensors",
+                      "size_mb":  77,
+                      "extension":  ".safetensors",
+                      "category":  "model-weight",
+                      "module":  "S3-急救营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/app/service/core/rag/res/deepdoc/layout.laws.onnx",
+                      "size_mb":  72.2,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/app/service/core/rag/res/deepdoc/layout.manual.onnx",
+                      "size_mb":  72.2,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/app/service/core/rag/res/deepdoc/layout.onnx",
+                      "size_mb":  72.2,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/app/service/core/rag/res/deepdoc/layout.paper.onnx",
+                      "size_mb":  72.2,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/app/service/core/rag/res/deepdoc/layout.onnx",
+                      "size_mb":  72.2,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/app/service/core/rag/res/deepdoc/layout.paper.onnx",
+                      "size_mb":  72.2,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/app/service/core/rag/res/deepdoc/layout.laws.onnx",
+                      "size_mb":  72.2,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/app/service/core/rag/res/deepdoc/layout.manual.onnx",
+                      "size_mb":  72.2,
+                      "extension":  ".onnx",
+                      "category":  "model-weight",
+                      "module":  "S2-系统训练营",
+                      "description":  "Model weights, adapters, or training checkpoints. Keep path and purpose only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/9-微调实战/FreeSFT/medical_o1_sft_mix.json",
+                      "size_mb":  69.7,
+                      "extension":  ".json",
+                      "category":  "dataset",
+                      "module":  "S2-系统训练营",
+                      "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/nltk_data/corpora/framenet_v15.zip",
+                      "size_mb":  66.1,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/nltk_data/corpora/framenet_v15.zip",
+                      "size_mb":  66.1,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/9-微调实战/FreeSFT/medical_o1_sft_mix_Chinese.json",
+                      "size_mb":  62.5,
+                      "extension":  ".json",
+                      "category":  "dataset",
+                      "module":  "S2-系统训练营",
+                      "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/5-RAG原理与核心组件/提示词工程+Functioncall+RAG/volumes/etcd/member/wal/0.tmp",
+                      "size_mb":  61,
+                      "extension":  ".tmp",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/5-RAG原理与核心组件/提示词工程+Functioncall+RAG/volumes/etcd/member/wal/0000000000000000-0000000000000000.wal",
+                      "size_mb":  61,
+                      "extension":  ".wal",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S4-agent开发/第一周-RAG\u0026向量数据库/RAG/volumes/etcd/member/wal/0000000000000000-0000000000000000.wal",
+                      "size_mb":  61,
+                      "extension":  ".wal",
+                      "category":  "runtime-cache",
+                      "module":  "S4-agent开发",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/9-微调实战/FreeSFT/medical_o1_sft.json",
+                      "size_mb":  55.5,
+                      "extension":  ".json",
+                      "category":  "dataset",
+                      "module":  "S2-系统训练营",
+                      "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S4-agent开发/第一周-RAG\u0026向量数据库/RAG/第一周-RAG.ipynb",
+                      "size_mb":  53.6,
+                      "extension":  ".ipynb",
+                      "category":  "notebook-export",
+                      "module":  "S4-agent开发",
+                      "description":  "Heavy notebook export. Keep title and topic summary, split content later if needed."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/app/service/core/rag/res/huqie.txt.trie",
+                      "size_mb":  52.2,
+                      "extension":  ".trie",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/app/service/core/rag/res/huqie.txt.trie",
+                      "size_mb":  52.2,
+                      "extension":  ".trie",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/9-微调实战/qwen3法律大模型实战/qwen3法律大模型实战/DISC-Law-SFT-Triplet-released.jsonl",
+                      "size_mb":  50.4,
+                      "extension":  ".jsonl",
+                      "category":  "dataset",
+                      "module":  "S2-系统训练营",
+                      "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/9-微调实战/FreeSFT/medical_o1_sft_Chinese.json",
+                      "size_mb":  48.3,
+                      "extension":  ".json",
+                      "category":  "dataset",
+                      "module":  "S2-系统训练营",
+                      "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/nltk_data/models/word2vec_sample.zip",
+                      "size_mb":  47.1,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/nltk_data/models/word2vec_sample.zip",
+                      "size_mb":  47.1,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S4-agent开发/第二周：Agent模式.ipynb",
+                      "size_mb":  41.8,
+                      "extension":  ".ipynb",
+                      "category":  "notebook-export",
+                      "module":  "S4-agent开发",
+                      "description":  "Heavy notebook export. Keep title and topic summary, split content later if needed."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/PPO实战/PPO/imdb/plain_text/unsupervised-00000-of-00001.parquet",
+                      "size_mb":  40.1,
+                      "extension":  ".parquet",
+                      "category":  "dataset",
+                      "module":  "S2-系统训练营",
+                      "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/第十周-强化学习.ipynb",
+                      "size_mb":  32.5,
+                      "extension":  ".ipynb",
+                      "category":  "notebook-export",
+                      "module":  "S2-系统训练营",
+                      "description":  "Heavy notebook export. Keep title and topic summary, split content later if needed."
+                  },
+                  {
+                      "relative_path":  "agent资料/S4-agent开发/Agent第三周/Agent3/第三周.ipynb",
+                      "size_mb":  28.8,
+                      "extension":  ".ipynb",
+                      "category":  "notebook-export",
+                      "module":  "S4-agent开发",
+                      "description":  "Heavy notebook export. Keep title and topic summary, split content later if needed."
+                  },
+                  {
+                      "relative_path":  "agent资料/S4-agent开发/Agent工程第五周：训练.ipynb",
+                      "size_mb":  28,
+                      "extension":  ".ipynb",
+                      "category":  "notebook-export",
+                      "module":  "S4-agent开发",
+                      "description":  "Heavy notebook export. Keep title and topic summary, split content later if needed."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/PPO手撕/RLHF/dataset/train.json",
+                      "size_mb":  26.8,
+                      "extension":  ".json",
+                      "category":  "dataset",
+                      "module":  "S2-系统训练营",
+                      "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/nltk_data/corpora/omw-1.4.zip",
+                      "size_mb":  25.4,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/nltk_data/corpora/omw-1.4.zip",
+                      "size_mb":  25.4,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/nltk_data/corpora/universal_treebanks_v20.zip",
+                      "size_mb":  24.7,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/nltk_data/corpora/universal_treebanks_v20.zip",
+                      "size_mb":  24.7,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/nltk_data/models/bllip_wsj_no_aux.zip",
+                      "size_mb":  23.4,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/nltk_data/models/bllip_wsj_no_aux.zip",
+                      "size_mb":  23.4,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/7-agent智能体/SalesPilot-main/backend/nltk_data/corpora/timit.zip",
+                      "size_mb":  21.2,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/6-RAG项目实战/swxy/backend/nltk_data/corpora/timit.zip",
+                      "size_mb":  21.2,
+                      "extension":  ".zip",
+                      "category":  "runtime-cache",
+                      "module":  "S2-系统训练营",
+                      "description":  "Caches, vector DB volumes, or tokenization indexes. Rebuild per environment."
+                  },
+                  {
+                      "relative_path":  "agent资料/S2-系统训练营/10-RLHF实战/PPO实战/PPO/imdb/plain_text/train-00000-of-00001.parquet",
+                      "size_mb":  20,
+                      "extension":  ".parquet",
+                      "category":  "dataset",
+                      "module":  "S2-系统训练营",
+                      "description":  "Raw training data or corpus assets. Keep source and usage notes only."
+                  }
+              ]
+}

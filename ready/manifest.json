@@ -1,0 +1,787 @@
+[
+  {
+    "title": "S2-LLM系统训练营-02-Transformer&MoE",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-02-Transformer&MOE .docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0001__s2-llm-02-transformer-moe.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-05-RAG-工业级优化方案",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-05-RAG-工业级优化方案.docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0002__s2-llm-05-rag.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-05-RAG初识",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-05-RAG初识.docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0003__s2-llm-05-rag.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-06-RAG-项目源码解读",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-06-RAG-项目源码解读.docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0004__s2-llm-06-rag.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-07-Agent",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-07-Agent .docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0005__s2-llm-07-agent.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-07-Agent-MCP",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-07-Agent-MCP .docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0006__s2-llm-07-agent-mcp.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-07-Agent-为什么Agent失败 & RAG推理",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-07-Agent-为什么Agent失败 & RAG推理.docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0007__s2-llm-07-agent-agent-rag.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-07-建立有效的Agent",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-07-建立有效的Agent .docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0008__s2-llm-07-agent.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-09-SFT-手撕微调",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-09-SFT-手撕微调.docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0009__s2-llm-09-sft.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-09-SFT-系统讲解",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-09-SFT-系统讲解.docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0010__s2-llm-09-sft.md"
+  },
+  {
+    "title": "S2-LLM系统训练营-10-强化学习",
+    "source_root": "edgeDownload",
+    "source_path": "S2-LLM系统训练营-10-强化学习.docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0011__s2-llm-10.md"
+  },
+  {
+    "title": "S4-Agent工程-01-RAG&向量数据库",
+    "source_root": "edgeDownload",
+    "source_path": "S4-Agent工程-01-RAG&向量数据库.docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0012__s4-agent-01-rag.md"
+  },
+  {
+    "title": "S4-Agent工程-02- Agent决策核心设计",
+    "source_root": "edgeDownload",
+    "source_path": "S4-Agent工程-02- Agent决策核心设计 .docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0013__s4-agent-02-agent.md"
+  },
+  {
+    "title": "S4-Agent工程-04-记忆层设计",
+    "source_root": "edgeDownload",
+    "source_path": "S4-Agent工程-04-记忆层设计 .docx",
+    "source_kind": "docx",
+    "output_path": "ready/topics/0014__s4-agent-04.md"
+  },
+  {
+    "title": "pytorch速通",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/1-大模型基础速通/pytorch & 深度学习/pytorch & 深度学习/pytorch速通.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0015__pytorch.md"
+  },
+  {
+    "title": "python速通",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/1-大模型基础速通/大模型实战课程之基础速通/python速通.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0016__python.md"
+  },
+  {
+    "title": "大模型数学基础",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/1-大模型基础速通/大模型数学基础.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0017__doc-3a995042e8.md"
+  },
+  {
+    "title": "使用 `trl` 复刻 DeepSeek R1 强化学习技术：GRPO",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/10-RLHF实战/grpo.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0018__trl-deepseek-r1-grpo.md"
+  },
+  {
+    "title": "Qwen3 (4B) GRPO",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/10-RLHF实战/Qwen3_(4B)_GRPO.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0019__qwen3-4b-grpo.md"
+  },
+  {
+    "title": "Qwen2.5-VL Technical Report",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/11-模拟融合与模型训练/qwen2_5.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0020__qwen2-5-vl-technical-report.md"
+  },
+  {
+    "title": "第11周-分布式",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/12-并行策略与工程落地/第11周-分布式/第11周-分布式.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0021__doc-994300d414.md"
+  },
+  {
+    "title": "FlashAttention: Fast and Memory-Eﬃcient Exact Attention",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/13-量化蒸馏与高效注意力/第12周-训练推理优化/flash_attentionpdf.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0022__flashattention-fast-and-memory-e-cient-exact-attention.md"
+  },
+  {
+    "title": "第12周-训练推理优化",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/13-量化蒸馏与高效注意力/第12周-训练推理优化/第12周-训练推理优化.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0023__doc-d85ee36b31.md"
+  },
+  {
+    "title": "Transformer & MoE",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/2-手撕Transformer&MOE/学透Transformer & MOE/Transformer & MOE.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0024__transformer-moe.md"
+  },
+  {
+    "title": "手搓Transformer（修复版本）",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/2-手撕Transformer&MOE/手搓transformer（修复版本）.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0025__transformer.md"
+  },
+  {
+    "title": "Attention is all you need",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/2-手撕Transformer&MOE/第1课-Transformer/第1课-Transformer/attention is all you need.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0026__attention-is-all-you-need.md"
+  },
+  {
+    "title": "【论文精读 & 面试题】Transformer论文逐段精读",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/2-手撕Transformer&MOE/第1课-Transformer/第1课-Transformer/【论文精读 & 面试题】Transformer论文逐段精读.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0027__transformer.md"
+  },
+  {
+    "title": "手搓Transformer",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/2-手撕Transformer&MOE/第1课-Transformer/第1课-Transformer/手搓transformer.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0028__transformer.md"
+  },
+  {
+    "title": "带KV Cache的Transformer",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/3-手撕Llama3/带kv cache的Transformer.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0029__kv-cache-transformer.md"
+  },
+  {
+    "title": "第2课-llama3技术报告",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/3-手撕Llama3/第2课-llama3技术报告.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0030__2-llama3.md"
+  },
+  {
+    "title": "第2课-llama3课件",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/3-手撕Llama3/第2课-llama3课件.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0031__2-llama3.md"
+  },
+  {
+    "title": "充分挖掘LLM能力——提示词工程",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/4-大模型部署压测开发实战/充分挖掘LLM能力——提示词工程.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0032__doc-62fc658898.md"
+  },
+  {
+    "title": "提示词工程",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/提示词工程+Functioncall+RAG/01_提示词工程.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0033__doc-9e1f41e90f.md"
+  },
+  {
+    "title": "深学AI后端架构讲解",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/4-大模型部署压测开发实战/深学AI/深学AI/深学AI后端架构讲解.md",
+    "source_kind": "text",
+    "output_path": "ready/topics/0034__doc-fb81a213ab.md"
+  },
+  {
+    "title": "上下文压缩",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/10_上下文压缩.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0035__doc-b47e8af6e3.md"
+  },
+  {
+    "title": "反馈回路机制的RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/11_反馈回路机制的rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0036__doc-fe1c611a20.md"
+  },
+  {
+    "title": "自适应检索",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/12_自适应检索.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0037__doc-85bc09bd2c.md"
+  },
+  {
+    "title": "自适应RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/13_自适应rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0038__doc-35ebc2077b.md"
+  },
+  {
+    "title": "命题分块",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/14_命题分块.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0039__doc-347be8e760.md"
+  },
+  {
+    "title": "多模态RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/15_多模态rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0040__doc-30f3efe756.md"
+  },
+  {
+    "title": "融合检索",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/16_融合检索.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0041__doc-a2817fdb12.md"
+  },
+  {
+    "title": "图RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/17_图rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0042__doc-6dfcfa8673.md"
+  },
+  {
+    "title": "分层检索RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/18_分层检索rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0043__doc-7630f87f5a.md"
+  },
+  {
+    "title": "假设文档嵌入RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/19_假设文档嵌入rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0044__doc-d817d71dcf.md"
+  },
+  {
+    "title": "基础RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/1_基础rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0045__doc-614f7a8816.md"
+  },
+  {
+    "title": "动态纠正RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/20_动态纠正rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0046__doc-fc4380c966.md"
+  },
+  {
+    "title": "强化学习增强RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/21_强化学习增强rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0047__doc-d848b0b253.md"
+  },
+  {
+    "title": "语义分块",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/2_语义分块.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0048__doc-65d36789ec.md"
+  },
+  {
+    "title": "切块大小选择",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/3_切块大小选择.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0049__doc-73a0adf962.md"
+  },
+  {
+    "title": "上下文增强检索的RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/4_上下文增强检索的rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0050__doc-1505d26e18.md"
+  },
+  {
+    "title": "上下文片段标题提取",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/5_上下文片段标题提取.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0051__doc-1f64611a26.md"
+  },
+  {
+    "title": "文档增强的RAG",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/6_文档增强的rag.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0052__doc-a4d6db6cc4.md"
+  },
+  {
+    "title": "查询转换",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/7_查询转换.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0053__doc-1b3f5167ee.md"
+  },
+  {
+    "title": "重排序",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/8_重排序.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0054__doc-55088b54bf.md"
+  },
+  {
+    "title": "相关段落提取",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/从零-RAG大师/9_相关段落提取.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0055__doc-2359d49830.md"
+  },
+  {
+    "title": "基础RAG概念与LlamaIndex实现",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/提示词工程+Functioncall+RAG/03_基础RAG概念与llamaindex实现.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0056__rag-llamaindex.md"
+  },
+  {
+    "title": "LlamaIndex组件",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/5-RAG原理与核心组件/提示词工程+Functioncall+RAG/04_llamaindex组件.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0057__llamaindex.md"
+  },
+  {
+    "title": "RAG简历",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/6-RAG项目实战/RAG简历 (1).pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0058__doc-6a72cd77ea.md"
+  },
+  {
+    "title": "RAG综述",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/6-RAG项目实战/RAG综述.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0059__doc-b44bdcec29.md"
+  },
+  {
+    "title": "RAG(Milvus+BGE)",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/7-agent智能体/Agent-Notebook/第9周-Agent/RAG(Milvus+BGE).ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0060__rag-milvus-bge.md"
+  },
+  {
+    "title": "MCP",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/7-agent智能体/mcp-stage3/mcp-stage3/MCP.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0061__doc-fc7b9994a2.md"
+  },
+  {
+    "title": "DeepSeek R1 Distilled Llama 8B微调实战",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/9-微调实战/DeepSeek R1 Distilled Llama 8B微调实战.ipynb",
+    "source_kind": "ipynb",
+    "output_path": "ready/topics/0062__deepseek-r1-distilled-llama-8b.md"
+  },
+  {
+    "title": "Qwen3法律大模型微调手册",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/9-微调实战/qwen3法律大模型实战/qwen3法律大模型实战/Qwen3法律大模型微调手册.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0063__doc-fa508cef26.md"
+  },
+  {
+    "title": "微调",
+    "source_root": "agent资料",
+    "source_path": "S2-系统训练营/9-微调实战/微调.pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0064__doc-98f443b775.md"
+  },
+  {
+    "title": "ARCHITECTURE",
+    "source_root": "agent资料",
+    "source_path": "S4-agent开发/Agent第三周/Agent3/ARCHITECTURE.md",
+    "source_kind": "text",
+    "output_path": "ready/topics/0065__architecture.md"
+  },
+  {
+    "title": "quick reference",
+    "source_root": "agent资料",
+    "source_path": "S4-agent开发/Agent第三周/Agent3/docs/quick_reference.md",
+    "source_kind": "text",
+    "output_path": "ready/topics/0066__quick-reference.md"
+  },
+  {
+    "title": "LECTURE",
+    "source_root": "agent资料",
+    "source_path": "S4-agent开发/Agent第四周-记忆/week4_project/docs/LECTURE.md",
+    "source_kind": "text",
+    "output_path": "ready/topics/0067__lecture.md"
+  },
+  {
+    "title": "Claude Code 深度使用手册",
+    "source_root": "agent资料",
+    "source_path": "S4-agent开发/Claude_Code_深度使用手册 .pdf",
+    "source_kind": "pdf",
+    "output_path": "ready/topics/0068__claude-code.md"
+  },
+  {
+    "title": "ATTU GUIDE",
+    "source_root": "agent资料",
+    "source_path": "S4-agent开发/第一周-RAG&向量数据库/RAG/ATTU_GUIDE.md",
+    "source_kind": "text",
+    "output_path": "ready/topics/0069__attu-guide.md"
+  },
+  {
+    "title": "操作手册",
+    "source_root": "agent资料",
+    "source_path": "S4-agent开发/第五周：train_project/train_project/docs/操作手册.md",
+    "source_kind": "text",
+    "output_path": "ready/topics/0070__doc-956c03561a.md"
+  },
+  {
+    "title": "脚本说明",
+    "source_root": "agent资料",
+    "source_path": "S4-agent开发/第五周：train_project/train_project/docs/脚本说明.md",
+    "source_kind": "text",
+    "output_path": "ready/topics/0071__doc-c944370ae0.md"
+  },
+  {
+    "title": "【Transformer基础-1】大模型中的分词",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_17_45-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0072__transformer-1.md"
+  },
+  {
+    "title": "【Transformer基础-2】Embedding（词嵌入）模型",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_18_27-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0073__transformer-2-embedding.md"
+  },
+  {
+    "title": "【Transformer基础-3】MHA、GQA和MLA",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_18_44-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0074__transformer-3-mha-gqa-mla.md"
+  },
+  {
+    "title": "【Transformer基础-4】MoE架构中的专家网络、门控与路由",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_19_02-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0075__transformer-4-moe.md"
+  },
+  {
+    "title": "【RAG实战-1】RAG流程详解与优化方案：案例+代码",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_20_16-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 27,
+    "output_path": "ready/topics/0076__rag-1-rag.md"
+  },
+  {
+    "title": "【RAG实战-2】RAG系统的结构性优化思路",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_21_10-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0077__rag-2-rag.md"
+  },
+  {
+    "title": "【RAG实战-5】核心代码详解",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_21_34-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 50,
+    "output_path": "ready/topics/0078__ocr-e80b05f056.md"
+  },
+  {
+    "title": "【RAG实战-6】RAG评估",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_22_46-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 9,
+    "output_path": "ready/topics/0079__rag-6-rag.md"
+  },
+  {
+    "title": "【RAG实战-8】实战项目的简历准备、面试、运用",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_23_33-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 59,
+    "output_path": "ready/topics/0080__ocr-4618cc663c.md"
+  },
+  {
+    "title": "【RAG实战-11】Embedding Model 和 Rerank",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_24_59-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 2,
+    "output_path": "ready/topics/0081__rag-11-embedding-model-rerank.md"
+  },
+  {
+    "title": "【RAG实战-12】记忆模块怎么做",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_25_07-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 10,
+    "output_path": "ready/topics/0082__rag-12.md"
+  },
+  {
+    "title": "【RAG实战-13】系统评估测试集构建指南",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_25_21-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 8,
+    "output_path": "ready/topics/0083__rag-13.md"
+  },
+  {
+    "title": "【RAG实战-14】MinerU解析短板分析",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_25_36-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 3,
+    "output_path": "ready/topics/0084__rag-14-mineru.md"
+  },
+  {
+    "title": "【基础篇】TF-IDF和BM25",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_26_00-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0085__tf-idf-bm25.md"
+  },
+  {
+    "title": "【RAG项目深挖-01】解析模块",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_26_12-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0086__rag-01.md"
+  },
+  {
+    "title": "【RAG项目深挖-02】chunk切分模块",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_26_21-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 15,
+    "output_path": "ready/topics/0087__rag-02-chunk.md"
+  },
+  {
+    "title": "【RAG项目深挖-03】检索召回模块",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_26_40-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 22,
+    "output_path": "ready/topics/0088__rag-03.md"
+  },
+  {
+    "title": "【RAG项目深挖-04】多轮对话管理和系统设计",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_27_07-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 21,
+    "output_path": "ready/topics/0089__rag-04.md"
+  },
+  {
+    "title": "【服务器1：API网关+会话管理】",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_27_29-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 12,
+    "output_path": "ready/topics/0090__ocr-2115eb7f9f.md"
+  },
+  {
+    "title": "【Agent实战-1】规划模块",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_28_08-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 13,
+    "output_path": "ready/topics/0091__agent-1.md"
+  },
+  {
+    "title": "【Agent实战-2】前后端服务",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_28_29-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 12,
+    "output_path": "ready/topics/0092__agent-2.md"
+  },
+  {
+    "title": "【Agent实战-7】Function Call微调指南",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_28_57-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 8,
+    "output_path": "ready/topics/0093__agent-7-function-call.md"
+  },
+  {
+    "title": "【微调1】微调数据集模版",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_30_30-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 14,
+    "output_path": "ready/topics/0094__ocr-f27f9ac3ec.md"
+  },
+  {
+    "title": "【微调3】一文搞懂微调数据格式怎么构造",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_30_57-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0095__ocr-925e5171e6.md"
+  },
+  {
+    "title": "【微调4】SFT阶段如何缓解灾难性遗忘",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_31_08-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 2,
+    "output_path": "ready/topics/0096__ocr-ad4e26189d.md"
+  },
+  {
+    "title": "【微调5】为什么要微调",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_31_14-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 5,
+    "output_path": "ready/topics/0097__ocr-32e4649d9a.md"
+  },
+  {
+    "title": "【微调6】如何构造领域微调数据集",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_31_26-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 6,
+    "output_path": "ready/topics/0098__ocr-0941509dd0.md"
+  },
+  {
+    "title": "【微调7】不同任务LoRA微调需要多少数据",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_31_38-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 3,
+    "output_path": "ready/topics/0099__7-lora.md"
+  },
+  {
+    "title": "【微调8】如何利用\"token/LoRA-param”曲线找",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_31_46-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 3,
+    "output_path": "ready/topics/0100__8-token-lora-param.md"
+  },
+  {
+    "title": "【微调11】领域LLM微调标准化过程",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_32_04-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 8,
+    "output_path": "ready/topics/0102__11-llm.md"
+  },
+  {
+    "title": "【微调12】做微调？到底怎么构造多轮对话数据集",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_32_20-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 15,
+    "output_path": "ready/topics/0103__ocr-cde6267f16.md"
+  },
+  {
+    "title": "【微调13】Function Calling 如何微调",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_32_42-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 11,
+    "output_path": "ready/topics/0104__13-function-calling.md"
+  },
+  {
+    "title": "【微调14】微调后模型复读机怎么办",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_33_03-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 12,
+    "output_path": "ready/topics/0105__ocr-92fa9c58b4.md"
+  },
+  {
+    "title": "【RL强化学习】DPO概念图解+手撕损失+训练",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_33_51-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 15,
+    "output_path": "ready/topics/0106__rl-dpo.md"
+  },
+  {
+    "title": "【RL强化学习】GRPO概念图解+手撕损失+训练",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_34_13-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 7,
+    "output_path": "ready/topics/0107__rl-grpo.md"
+  },
+  {
+    "title": "【Agent工程-04】记忆层设计",
+    "source_root": "note",
+    "source_path": "2026-04-09 01_35_21-Greenshot.png",
+    "source_kind": "ocr-image-group",
+    "page_count": 8,
+    "output_path": "ready/topics/0108__agent-04.md"
+  }
+]
