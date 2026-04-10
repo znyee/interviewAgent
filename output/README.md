@@ -16,17 +16,14 @@
 - 如果是简历/面试相关内容，生成前默认先参考 `agent_knowledge/persistent_user_constraints.md`
 - 模拟面试问答默认使用 `问题 1 / 问题 2 / 问题 3` 格式
 
-当前建议优先阅读：
+## 现在的推荐子目录
 
-- `agent_resume_interview_portable_kb.md`：可脱离当前机器单独使用的单文件知识库
-- `mock_interview_questions_001-200.md`：当前全部可用的标准问题卷
-- `interview_qa_core_001-011.md`：核心高频问题的参考问答稿
-- `interview_followup_sample_001-005.md`：5 题连续追问示例
-- `interview_index.md`：当前面试文件总索引
+- `templates/`: 可复用模板
+- `sessions/`: 模拟面试过程和复盘
+- `resume_tasks/`: JD 定制改简历任务
 
-当前命名约定：
+## 推荐做法
 
-- `mock_interview_questions_001-200.md`：标准问题卷，按每 200 题分卷
-- `interview_qa_core_001-011.md`：核心高频问题的问答稿
-- `interview_followup_sample_001-005.md`：连续追问样例
-- `interview_index.md`：索引说明
+- 跑新任务前，先用 `scripts/start_session.ps1` 生成模板文件
+- 每次任务都尽量保留 `输入背景 + 输出结果 + 风险点 + 下一步`
+- 不要只保留最终答案，最好把点评和改写原因也一起保留

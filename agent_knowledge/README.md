@@ -6,6 +6,7 @@
 
 ## 建议优先阅读
 
+- `candidate_profile.json`
 - `persistent_user_constraints.md`
 - `resume_summary.md`
 - `resume_material_mapping.md`
@@ -40,6 +41,7 @@
 
 ## 使用原则
 
+- 做模拟面试或改简历前，先读取 `candidate_profile.json`，把稳定事实、指标、关键词和禁止夸大的边界固定下来。
 - 和简历、面试、项目复盘有关的任务，默认先读 `persistent_user_constraints.md`，把用户长期约束作为第一优先级。
 - 回答简历相关问题时，先以 `resume_summary.md` 为主，再用项目卡片补细节。
 - 生成模拟面试题时，优先使用 `interview_assets/question_bank.md` 和 `interview_assets/followup_trees.md`，保证问题既贴合简历，又有真实追问节奏。
